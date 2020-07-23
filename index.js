@@ -161,7 +161,7 @@ const checkForWin = () => {
 const reset = () => {
   generateField();
   randomiseTargets(10);
-  revealHints(34);
+  revealHints(12);
   addClickHandlers();
 };
 
