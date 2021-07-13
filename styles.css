@@ -56,8 +56,7 @@ h1 {
 }
 
 .tile {
-  height: 10%;
-  width: 10%;
+  
   flex: 1;
   background: #456;
   border: 1px solid #fff;
